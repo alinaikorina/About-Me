@@ -4,7 +4,7 @@
 - 🔭 Currently working on Unreal Engine 5 projects
 - 🌱 Learning C++, AI Systems, and Networking
 - 🎮 Game Developer
-- 📫 Contact: alina.ikorina@gmail.com
+- 📫 Contact: ikorina.alina@gmail.com
 
 ## 🛠️ Technologies & Tools
 
