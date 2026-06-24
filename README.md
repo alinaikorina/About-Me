@@ -1,1 +1,39 @@
-# About-Me
+# Hi 👋, I'm Alina
+
+## 🚀 About Me
+- 🔭 Currently working on Unreal Engine 5 projects
+- 🌱 Learning C++, AI Systems, and Networking
+- 🎮 Game Developer
+- 📫 Contact: alina.ikorina@gmail.com
+
+## 🛠️ Technologies & Tools
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/alina-ikorina-a261b4257?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+## 🎯 Current Projects
+
+- 👻 Ghost Upload/Download System (UE5 + Supabase)
+- 🤖 AI Perception & Behavior Trees
+- 🔥 Cellular Automata Fire Simulation
+- 🌪️ Wind Vector Field Simulation
+
+---
+
+⭐ Thanks for visiting my profile!
