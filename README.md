@@ -25,7 +25,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/alina-ikorina-a261b4257?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/alina-ikorina-a261b4257?utm_source=share_via&utm_content=profile&utm_medium=member_android])
 
 ## 🎯 Current Projects
 
