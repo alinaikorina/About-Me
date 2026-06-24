@@ -9,8 +9,14 @@
 ## 🛠️ Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/JetBrains%20Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
