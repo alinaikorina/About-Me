@@ -29,10 +29,10 @@
 
 ## 🎯 Current Projects
 
-- 👻 Ghost Upload/Download System (UE5 + Supabase)
+- 🔥 Project Glitch (Diploma Project)
+- 😈 Hollow Smiles (Psychological Horror Game UE5)
+- 👻 Ghost Replay Upload/Download System (UE5 + Supabase)
 - 🤖 AI Perception & Behavior Trees
-- 🔥 Cellular Automata Fire Simulation
-- 🌪️ Wind Vector Field Simulation
 
 ---
 
